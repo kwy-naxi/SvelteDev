@@ -6,6 +6,7 @@
     <a href="#/Contact2/1234">Contact2</a> |
     <a href="#/Todo">Todo</a> |
     <a href="#/ReactiveSum">ReactiveSum</a>
+    <a href="#/Login">Login</a>
   </nav>
 </div>
 
